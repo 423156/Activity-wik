@@ -9,7 +9,7 @@
 ## 2. LLM Wiki 連結／成果
 
 - Wiki 連結／本機路徑：[wiki/index.md](wiki/index.md)
-- 公開 Wiki／GitHub 網址：https://github.com/423156/Activity-wik/blob/main/wiki/index.md。
+- 公開 Wiki／GitHub 網址：[查看 Wiki](https://github.com/423156/Activity-wik/blob/main/wiki/index.md)
 - [來源清單](workflow/sources.md)、[ingest 紀錄](wiki/log.md)、[evidence](workflow/evidence.md)
 
 這次共 ingest **9 份資料**，使用 **S01–S09** 管理來源。資料包括新生手冊、系烤企劃、系學會會議資料、系 T 訂購文件、迎新宣傳與送舊簽到表。新生手冊有 Word 和 PDF 兩種格式，重疊內容不算兩份獨立佐證；排除其中一份仍有 8 份資料。
