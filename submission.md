@@ -19,7 +19,7 @@ Wiki 主要整理活動目的與對象、分工與期限、招募通知、表格
 ## 3. 教學 HTML 簡報連結／成果
 
 - HTML 連結／本機路徑：[workflow/deck.html](workflow/deck.html)
-- 公開 HTML 網址：尚未提供，待本人補上（若老師要求）。
+- 公開 HTML 網址：https://423156.github.io/Activity-wik/workflow/deck.html。
 - [教學大綱](workflow/outline.md)、[逐頁草稿](workflow/draft.md)
 
 簡報共 **14 頁**，包含封面與來源頁，目標讀者是第一次辦活動的初學者。內容由 Wiki／evidence 整理成 outline 和 draft，再把通過檢查的 draft 轉成 HTML，排版時不新增事實。
